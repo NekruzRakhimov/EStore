@@ -1,0 +1,995 @@
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN] ::1 - [Mon, 25 Oct 2021 22:59:45 +05] "GET /ping HTTP/1.1 200 0s "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /auth/sign-up             --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /auth/sign-in             --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN] ::1 - [Mon, 25 Oct 2021 23:40:18 +05] "POST /sign-up HTTP/1.1 200 956.2µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Mon, 25 Oct 2021 23:41:06 +05] "POST /sign-in HTTP/1.1 200 914.1µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN] ::1 - [Mon, 25 Oct 2021 23:41:56 +05] "POST /sign-in HTTP/1.1 200 282.8µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Mon, 25 Oct 2021 23:41:58 +05] "POST /sign-up HTTP/1.1 200 0s "insomnia/2021.5.3" 
+[GIN] ::1 - [Mon, 25 Oct 2021 23:42:01 +05] "POST /sign-in HTTP/1.1 200 526µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 01:57:29 pq: столбец "description" в таблице "user_types" не существует
+[GIN] ::1 - [Tue, 26 Oct 2021 01:57:29 +05] "POST /sign-up HTTP/1.1 500 6.7587ms "insomnia/2021.5.3" 
+2021/10/26 01:59:09 pq: столбец "description" в таблице "user_types" не существует
+[GIN] ::1 - [Tue, 26 Oct 2021 01:59:09 +05] "POST /sign-up HTTP/1.1 500 3.1727ms "insomnia/2021.5.3" 
+2021/10/26 01:59:37 pq: столбец "description" в таблице "user_types" не существует
+[GIN] ::1 - [Tue, 26 Oct 2021 01:59:37 +05] "POST /sign-up HTTP/1.1 500 3.1506ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 02:01:38 pq: столбец "description" в таблице "user_types" не существует
+[GIN] ::1 - [Tue, 26 Oct 2021 02:01:38 +05] "POST /sign-up HTTP/1.1 500 3.7381ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 02:05:05 pq: отношение "user" не существует
+[GIN] ::1 - [Tue, 26 Oct 2021 02:05:05 +05] "POST /sign-up HTTP/1.1 500 10.9191ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 02:05:55 pq: столбец "password" в таблице "users" не существует
+[GIN] ::1 - [Tue, 26 Oct 2021 02:05:55 +05] "POST /sign-up HTTP/1.1 500 17.4165ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 02:06:32 pq: столбец "password" в таблице "users" не существует
+[GIN] ::1 - [Tue, 26 Oct 2021 02:06:32 +05] "POST /sign-up HTTP/1.1 500 15.0975ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 02:08:15 pq: столбец "type" в таблице "users" не существует
+[GIN] ::1 - [Tue, 26 Oct 2021 02:08:15 +05] "POST /sign-up HTTP/1.1 500 14.9675ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN] ::1 - [Tue, 26 Oct 2021 02:08:49 +05] "POST /sign-up HTTP/1.1 200 16.1778ms "insomnia/2021.5.3" 
+2021/10/26 02:08:53 pq: повторяющееся значение ключа нарушает ограничение уникальности "users_username_uindex"
+[GIN] ::1 - [Tue, 26 Oct 2021 02:08:53 +05] "POST /sign-up HTTP/1.1 500 4.6656ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 03:15:01 +05] "GET /goods HTTP/1.1 404 0s "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 03:15:16 unsupported destination, should be slice or struct
+[GIN] ::1 - [Tue, 26 Oct 2021 03:15:16 +05] "GET /goods HTTP/1.1 500 26.9µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 03:16:03 unsupported destination, should be slice or struct
+[GIN] ::1 - [Tue, 26 Oct 2021 03:16:03 +05] "GET /goods HTTP/1.1 500 269µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN] ::1 - [Tue, 26 Oct 2021 03:16:34 +05] "GET /goods HTTP/1.1 200 8.3491ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN] ::1 - [Tue, 26 Oct 2021 03:17:23 +05] "GET /goods HTTP/1.1 200 1.349ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 03:31:35 +05] "POST /sign-in HTTP/1.1 200 4.569ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /user/cart                --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN] ::1 - [Tue, 26 Oct 2021 03:55:56 +05] "POST /sign-in HTTP/1.1 200 529.8µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 03:56:25 +05] "POST /api/user/cart/1 HTTP/1.1 404 0s "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /user/cart/:good_id       --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN] ::1 - [Tue, 26 Oct 2021 03:57:17 +05] "POST /api/user/cart/1 HTTP/1.1 404 0s "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 03:57:46 your user-type is not "user"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:57:46 +05] "POST /api/user/cart/1 HTTP/1.1 403 0s "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 03:58:44 your user-type is not "user"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:58:44 +05] "POST /api/user/cart/1 HTTP/1.1 403 502.5µs "insomnia/2021.5.3" 
+2021/10/26 03:58:55 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:58:55 +05] "POST /sign-up HTTP/1.1 500 8.0276ms "insomnia/2021.5.3" 
+2021/10/26 03:59:18 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:18 +05] "POST /sign-up HTTP/1.1 500 2.7777ms "insomnia/2021.5.3" 
+2021/10/26 03:59:18 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:18 +05] "POST /sign-up HTTP/1.1 500 1.9429ms "insomnia/2021.5.3" 
+2021/10/26 03:59:18 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:18 +05] "POST /sign-up HTTP/1.1 500 2.8619ms "insomnia/2021.5.3" 
+2021/10/26 03:59:19 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:19 +05] "POST /sign-up HTTP/1.1 500 1.9539ms "insomnia/2021.5.3" 
+2021/10/26 03:59:19 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:19 +05] "POST /sign-up HTTP/1.1 500 1.9943ms "insomnia/2021.5.3" 
+2021/10/26 03:59:19 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:19 +05] "POST /sign-up HTTP/1.1 500 2.0188ms "insomnia/2021.5.3" 
+2021/10/26 03:59:19 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:19 +05] "POST /sign-up HTTP/1.1 500 3.498ms "insomnia/2021.5.3" 
+2021/10/26 03:59:20 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:20 +05] "POST /sign-up HTTP/1.1 500 2.3698ms "insomnia/2021.5.3" 
+2021/10/26 03:59:20 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:20 +05] "POST /sign-up HTTP/1.1 500 3.0398ms "insomnia/2021.5.3" 
+2021/10/26 03:59:20 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:20 +05] "POST /sign-up HTTP/1.1 500 2.0062ms "insomnia/2021.5.3" 
+2021/10/26 03:59:20 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:20 +05] "POST /sign-up HTTP/1.1 500 3.1516ms "insomnia/2021.5.3" 
+2021/10/26 03:59:21 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:21 +05] "POST /sign-up HTTP/1.1 500 1.0003ms "insomnia/2021.5.3" 
+2021/10/26 03:59:21 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:21 +05] "POST /sign-up HTTP/1.1 500 2.0068ms "insomnia/2021.5.3" 
+2021/10/26 03:59:21 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:21 +05] "POST /sign-up HTTP/1.1 500 2.0039ms "insomnia/2021.5.3" 
+2021/10/26 03:59:21 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:21 +05] "POST /sign-up HTTP/1.1 500 2.0124ms "insomnia/2021.5.3" 
+2021/10/26 03:59:22 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:22 +05] "POST /sign-up HTTP/1.1 500 2.2628ms "insomnia/2021.5.3" 
+2021/10/26 03:59:22 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 03:59:22 +05] "POST /sign-up HTTP/1.1 500 1.6513ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 04:00:45 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 04:00:45 +05] "POST /sign-up HTTP/1.1 500 7.107ms "insomnia/2021.5.3" 
+2021/10/26 04:00:50 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 04:00:50 +05] "POST /sign-up HTTP/1.1 500 2.4074ms "insomnia/2021.5.3" 
+2021/10/26 04:00:54 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Tue, 26 Oct 2021 04:00:54 +05] "POST /sign-up HTTP/1.1 500 2.0719ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 04:01:57 +05] "POST /sign-up HTTP/1.1 200 2.7186ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 04:02:19 +05] "POST /sign-in HTTP/1.1 200 385.8µs "insomnia/2021.5.3" 
+2021/10/26 04:02:33 your user-type is not "user"
+[GIN] ::1 - [Tue, 26 Oct 2021 04:02:33 +05] "POST /api/user/cart/1 HTTP/1.1 403 1.0212ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 04:03:37 your user-type is not "user"
+[GIN] ::1 - [Tue, 26 Oct 2021 04:03:37 +05] "POST /api/user/cart/1 HTTP/1.1 403 565.7µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 04:04:13 your user-type is not "user"
+[GIN] ::1 - [Tue, 26 Oct 2021 04:04:13 +05] "POST /api/user/cart/1 HTTP/1.1 403 542µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 04:05:08 your user-type is not "user"
+[GIN] ::1 - [Tue, 26 Oct 2021 04:05:08 +05] "POST /api/user/cart/1 HTTP/1.1 403 546.1µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 04:08:12 json: cannot unmarshal string into Go struct field tokenClaims.user_type of type int
+[GIN] ::1 - [Tue, 26 Oct 2021 04:08:12 +05] "POST /api/user/cart/1 HTTP/1.1 401 527.9µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 04:12:01 json: cannot unmarshal string into Go struct field tokenClaims.user_type of type int
+[GIN] ::1 - [Tue, 26 Oct 2021 04:12:01 +05] "POST /api/user/cart/1 HTTP/1.1 401 528.5µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 04:13:32 +05] "POST /sign-in HTTP/1.1 200 218.4µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 04:13:43 +05] "POST /sign-in HTTP/1.1 200 544.7µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 04:14:43 pq: ошибка синтаксиса (примерное положение: "=")
+[GIN] ::1 - [Tue, 26 Oct 2021 04:14:43 +05] "POST /sign-in HTTP/1.1 500 3.2736ms "insomnia/2021.5.3" 
+2021/10/26 04:14:45 pq: ошибка синтаксиса (примерное положение: "=")
+[GIN] ::1 - [Tue, 26 Oct 2021 04:14:45 +05] "POST /sign-in HTTP/1.1 500 988.8µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+2021/10/26 04:15:02 pq: столбец "password" не существует
+[GIN] ::1 - [Tue, 26 Oct 2021 04:15:02 +05] "POST /sign-in HTTP/1.1 500 2.3ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 04:15:50 +05] "POST /sign-in HTTP/1.1 200 10.9141ms "insomnia/2021.5.3" 
+2021/10/26 04:16:04 sql: converting argument $2 type: unsupported type []string, a slice of string
+[GIN] ::1 - [Tue, 26 Oct 2021 04:16:04 +05] "POST /api/user/cart/1 HTTP/1.1 500 2.4724ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN] ::1 - [Tue, 26 Oct 2021 04:17:31 +05] "POST /api/user/cart/1 HTTP/1.1 200 11.3869ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 04:17:43 +05] "POST /api/user/cart/2 HTTP/1.1 200 1.8384ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 04:18:00 +05] "POST /api/user/cart/2 HTTP/1.1 200 2.266ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :5555
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/26 13:16:23 pq: столбец "password_hash" в таблице "users" не существует
+[GIN] ::1 - [Tue, 26 Oct 2021 13:16:23 +05] "POST /sign-up HTTP/1.1 500 22.08ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/26 13:17:01 pq: столбец "password_hash" в таблице "users" не существует
+[GIN] ::1 - [Tue, 26 Oct 2021 13:17:01 +05] "POST /sign-up HTTP/1.1 500 5.0731ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/26 13:18:18 pq: столбец "password_hash" в таблице "users" не существует
+[GIN] ::1 - [Tue, 26 Oct 2021 13:18:18 +05] "POST /sign-up HTTP/1.1 500 6.281ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/26 13:21:53 pq: повторяющееся значение ключа нарушает ограничение уникальности "users_username_uindex"
+[GIN] ::1 - [Tue, 26 Oct 2021 13:21:53 +05] "POST /sign-up HTTP/1.1 500 20.1563ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 13:22:00 +05] "POST /sign-up HTTP/1.1 200 3.5354ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 13:22:19 +05] "POST /sign-in HTTP/1.1 200 3.1977ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 13:22:29 +05] "POST /api/user/cart/2 HTTP/1.1 200 3.8392ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 13:23:33 +05] "POST /api/user/cart/2 HTTP/1.1 200 4.5122ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Tue, 26 Oct 2021 13:23:51 +05] "POST /api/user/cart/2 HTTP/1.1 200 2.6188ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] GET    /api/user/carts           --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Wed, 27 Oct 2021 16:36:00 +05] "GET /goods HTTP/1.1 200 7.072ms "insomnia/2021.5.3" 
+2021/10/27 16:36:03 empty auth header
+[GIN] ::1 - [Wed, 27 Oct 2021 16:36:03 +05] "GET /api/manager/carts HTTP/1.1 401 446µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 16:36:17 +05] "POST /sign-in HTTP/1.1 200 3.1891ms "insomnia/2021.5.3" 
+2021/10/27 16:36:32 you are not a manager
+[GIN] ::1 - [Wed, 27 Oct 2021 16:36:32 +05] "GET /api/manager/carts HTTP/1.1 403 79.2µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 16:36:41 +05] "GET /goods HTTP/1.1 200 790.8µs "insomnia/2021.5.3" 
+2021/10/27 16:37:38 token is expired by 15h15m19s
+[GIN] ::1 - [Wed, 27 Oct 2021 16:37:38 +05] "POST /api/user/cart/2 HTTP/1.1 401 1.0098ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 16:37:53 +05] "POST /api/user/cart/2 HTTP/1.1 200 966.4µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 16:38:52 +05] "POST /api/user/cart/2 HTTP/1.1 200 0s "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 16:38:57 +05] "POST /sign-in HTTP/1.1 200 901.4µs "insomnia/2021.5.3" 
+2021/10/27 16:39:05 your user-type is not "user"
+[GIN] ::1 - [Wed, 27 Oct 2021 16:39:05 +05] "POST /api/user/cart/2 HTTP/1.1 403 722µs "insomnia/2021.5.3" 
+2021/10/27 18:24:00 pq: INSERT или UPDATE в таблице "users" нарушает ограничение внешнего ключа "users_user_types_id_fk"
+[GIN] ::1 - [Wed, 27 Oct 2021 18:24:00 +05] "POST /sign-up HTTP/1.1 500 18.8279ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 18:24:25 +05] "POST /sign-up HTTP/1.1 200 3.5954ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 18:24:43 +05] "POST /sign-in HTTP/1.1 200 1.7363ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 18:24:52 +05] "GET /goods HTTP/1.1 200 2.7565ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 18:25:03 +05] "POST /api/user/cart/2 HTTP/1.1 200 0s "insomnia/2021.5.3" 
+2021/10/27 18:25:10 you are not a manager
+[GIN] ::1 - [Wed, 27 Oct 2021 18:25:10 +05] "GET /api/manager/carts HTTP/1.1 403 525.2µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 18:34:35 +05] "GET /goods HTTP/1.1 200 1.3756ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Wed, 27 Oct 2021 18:35:09 +05] "GET /goods HTTP/1.1 200 10.3433ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 18:35:24 +05] "GET /goods HTTP/1.1 200 1.9672ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 19:45:28 +05] "POST /sign-in HTTP/1.1 200 15.34ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good         --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good         --> EStore/pkg/controller.DecrementGoodCount (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Wed, 27 Oct 2021 19:45:45 +05] "POST /sign-in HTTP/1.1 200 2.5476ms "insomnia/2021.5.3" 
+2021/10/27 19:46:05 you are not a manager
+[GIN] ::1 - [Wed, 27 Oct 2021 19:46:05 +05] "POST /api/manager/good HTTP/1.1 403 0s "insomnia/2021.5.3" 
+2021/10/27 19:46:25 you are not a manager
+[GIN] ::1 - [Wed, 27 Oct 2021 19:46:25 +05] "POST /api/manager/good HTTP/1.1 403 331.4µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 19:46:43 +05] "POST /sign-in HTTP/1.1 200 1.6186ms "insomnia/2021.5.3" 
+2021/10/27 19:47:00 you are not a manager
+[GIN] ::1 - [Wed, 27 Oct 2021 19:47:00 +05] "POST /api/manager/good HTTP/1.1 403 966.6µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 19:47:31 +05] "POST /sign-in HTTP/1.1 200 1.4243ms "insomnia/2021.5.3" 
+2021/10/27 19:47:43 you are not a manager
+[GIN] ::1 - [Wed, 27 Oct 2021 19:47:43 +05] "GET /api/manager/carts HTTP/1.1 403 896.8µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good         --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good         --> EStore/pkg/controller.DecrementGoodCount (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Wed, 27 Oct 2021 19:48:47 +05] "GET /api/manager/carts HTTP/1.1 200 26.6µs "insomnia/2021.5.3" 
+2021/10/27 19:48:51 EOF
+[GIN] ::1 - [Wed, 27 Oct 2021 19:48:51 +05] "POST /api/manager/good HTTP/1.1 400 181.2µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 19:49:35 +05] "POST /api/manager/good HTTP/1.1 200 3.9616ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 19:50:05 +05] "POST /api/manager/good HTTP/1.1 200 1.997ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 19:50:09 +05] "GET /goods HTTP/1.1 200 1.1026ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good         --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good         --> EStore/pkg/controller.DecrementGoodCount (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Wed, 27 Oct 2021 19:51:19 +05] "GET /goods HTTP/1.1 200 2.5325ms "insomnia/2021.5.3" 
+2021/10/27 19:55:45 record not found
+[GIN] ::1 - [Wed, 27 Oct 2021 19:55:45 +05] "POST /sign-in HTTP/1.1 500 2.6873ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 19:55:54 +05] "POST /sign-up HTTP/1.1 200 5.2033ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 19:55:56 +05] "POST /sign-in HTTP/1.1 200 999µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 19:56:30 +05] "POST /sign-up HTTP/1.1 200 2.4821ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 19:56:33 +05] "POST /sign-up HTTP/1.1 200 2.5154ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 19:56:37 +05] "POST /sign-up HTTP/1.1 200 2.8127ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 19:56:47 +05] "POST /sign-up HTTP/1.1 200 2.2818ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good         --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good         --> EStore/pkg/controller.DecrementGoodCount (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Wed, 27 Oct 2021 23:52:51 +05] "GET /api/manager/carts HTTP/1.1 200 665.4µs "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 23:54:09 +05] "GET /goods HTTP/1.1 200 3.5945ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good         --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good         --> EStore/pkg/controller.DecrementGoodCount (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Wed, 27 Oct 2021 23:55:27 +05] "POST /api/manager/good HTTP/1.1 200 3.3033ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 23:55:29 +05] "POST /api/manager/good HTTP/1.1 200 2.2822ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good         --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good         --> EStore/pkg/controller.DecrementGoodCount (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Wed, 27 Oct 2021 23:58:39 +05] "POST /api/manager/good HTTP/1.1 200 14.3113ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 23:58:40 +05] "POST /api/manager/good HTTP/1.1 200 1.8874ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Wed, 27 Oct 2021 23:59:16 +05] "POST /api/manager/good HTTP/1.1 200 2.1928ms "insomnia/2021.5.3" 
+2021/10/28 00:00:01 pq: отношение "good" не существует
+[GIN] ::1 - [Thu, 28 Oct 2021 00:00:01 +05] "PUT /api/manager/good HTTP/1.1 500 5.2399ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good         --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good         --> EStore/pkg/controller.DecrementGoodCount (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 00:00:30 pq: отношение "good" не существует
+[GIN] ::1 - [Thu, 28 Oct 2021 00:00:30 +05] "PUT /api/manager/good HTTP/1.1 500 7.2985ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good         --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good         --> EStore/pkg/controller.DecrementGoodCount (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 00:00:54 +05] "PUT /api/manager/good HTTP/1.1 200 4.9687ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:01:03 +05] "GET /goods HTTP/1.1 200 1.1067ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:01:17 +05] "PUT /api/manager/good HTTP/1.1 200 2.9103ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:01:20 +05] "GET /goods HTTP/1.1 200 1.1746ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:01:30 +05] "PUT /api/manager/good HTTP/1.1 200 3.4538ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:01:33 +05] "GET /goods HTTP/1.1 200 835.6µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good         --> EStore/pkg/controller.DecrementGoodCount (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 00:11:51 +05] "PUT /api/manager/good/inc HTTP/1.1 200 5.668ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:11:54 +05] "GET /goods HTTP/1.1 200 1.2148ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:12:01 +05] "PUT /api/manager/good/inc HTTP/1.1 200 2.7936ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:12:05 +05] "GET /goods HTTP/1.1 200 1.2501ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:12:16 +05] "PUT /api/manager/good/dec HTTP/1.1 200 5.8967ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:12:19 +05] "GET /goods HTTP/1.1 200 1.0429ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:12:25 +05] "PUT /api/manager/good/dec HTTP/1.1 200 3.6964ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:12:28 +05] "GET /goods HTTP/1.1 200 1.1771ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:13:27 +05] "PUT /api/manager/good/dec HTTP/1.1 200 4.0065ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:13:31 +05] "GET /goods HTTP/1.1 200 1.5085ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good         --> EStore/pkg/controller.DecrementGoodCount (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 00:17:33 +05] "POST /api/manager/good HTTP/1.1 200 11.2919ms "insomnia/2021.5.3" 
+2021/10/28 00:17:41 У нас нет столько продуктов. Вы просите [5], а у нас на складе [0]
+[GIN] ::1 - [Thu, 28 Oct 2021 00:17:41 +05] "PUT /api/manager/good/dec HTTP/1.1 500 3.1054ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:17:50 +05] "PUT /api/manager/good/int HTTP/1.1 200 0s "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:17:54 +05] "PUT /api/manager/good/inc HTTP/1.1 200 3.0067ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:18:03 +05] "GET /goods HTTP/1.1 200 1.9134ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:18:16 +05] "PUT /api/manager/good/dec HTTP/1.1 200 3.1814ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:18:20 +05] "GET /goods HTTP/1.1 200 1.5478ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good         --> EStore/pkg/controller.DecrementGoodCount (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 00:19:48 У нас нет столько продуктов. Вы просите [4], а у нас на складе [1]
+[GIN] ::1 - [Thu, 28 Oct 2021 00:19:48 +05] "PUT /api/manager/good/dec HTTP/1.1 500 26.3756ms "insomnia/2021.5.3" 
+2021/10/28 00:20:01 тип операции не найден
+[GIN] ::1 - [Thu, 28 Oct 2021 00:20:01 +05] "PUT /api/manager/good/int HTTP/1.1 500 1.4019ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:20:04 +05] "PUT /api/manager/good/inc HTTP/1.1 200 3.3441ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:20:14 +05] "GET /goods HTTP/1.1 200 1.6169ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:20:19 +05] "PUT /api/manager/good/dec HTTP/1.1 200 2.6434ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:20:22 +05] "GET /goods HTTP/1.1 200 692.9µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart/:good_id   --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 00:29:04 +05] "GET /goods HTTP/1.1 200 2.6544ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:29:17 +05] "DELETE /api/manager/good/13 HTTP/1.1 200 3.973ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 00:29:22 +05] "GET /goods HTTP/1.1 200 744.7µs "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:19:39 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:19:39 +05] "POST /api/user/cart HTTP/1.1 500 10.4207ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:20:24 +05] "GET /goods HTTP/1.1 200 1.3063ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:20:47 +05] "POST /api/manager/good HTTP/1.1 200 2.5042ms "insomnia/2021.5.3" 
+2021/10/28 01:20:54 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:20:54 +05] "POST /api/user/cart HTTP/1.1 500 2.2611ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:21:05 +05] "PUT /api/manager/good/inc HTTP/1.1 200 2.5041ms "insomnia/2021.5.3" 
+2021/10/28 01:21:18 У нас нет столько продуктов. Вы просите [5], а у нас на складе [4]
+[GIN] ::1 - [Thu, 28 Oct 2021 01:21:18 +05] "PUT /api/manager/good/dec HTTP/1.1 500 2.0375ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:21:27 +05] "PUT /api/manager/good/dec HTTP/1.1 200 3.3527ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:21:33 +05] "GET /goods HTTP/1.1 200 1.0361ms "insomnia/2021.5.3" 
+2021/10/28 01:21:53 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:21:53 +05] "POST /api/user/cart HTTP/1.1 500 1.7711ms "insomnia/2021.5.3" 
+2021/10/28 01:22:00 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:22:00 +05] "POST /api/user/cart HTTP/1.1 500 1.2689ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:23:57 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:23:57 +05] "POST /api/user/cart HTTP/1.1 500 9.2701ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:25:26 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:25:26 +05] "POST /api/user/cart HTTP/1.1 500 16.2239ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:27:27 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:27:27 +05] "POST /api/user/cart HTTP/1.1 500 4.458ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:28:21 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:28:21 +05] "POST /api/user/cart HTTP/1.1 500 3.1014ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:29:44 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:29:44 +05] "POST /api/user/cart HTTP/1.1 500 5.7318ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:30:16 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:30:16 +05] "POST /api/user/cart HTTP/1.1 500 3.8414ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:31:13 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:31:13 +05] "POST /api/user/cart HTTP/1.1 500 3.2606ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:33:05 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:33:05 +05] "POST /api/user/cart HTTP/1.1 500 4.0777ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:33:58 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:33:58 +05] "POST /api/user/cart HTTP/1.1 500 6.0399ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:34:24 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:34:24 +05] "POST /api/user/cart HTTP/1.1 500 2.7627ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:35:06 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:35:06 +05] "POST /api/user/cart HTTP/1.1 500 4.5372ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:35:57 pq: столбец reserved_goods.id не существует
+[GIN] ::1 - [Thu, 28 Oct 2021 01:35:57 +05] "POST /api/user/cart HTTP/1.1 500 11.0343ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:37:26 +05] "POST /api/user/cart HTTP/1.1 200 10.4049ms "insomnia/2021.5.3" 
+2021/10/28 01:37:30 record not found
+[GIN] ::1 - [Thu, 28 Oct 2021 01:37:30 +05] "POST /api/user/cart HTTP/1.1 500 3.454ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+2021/10/28 01:38:40 У нас нет столько продуктов. Вы просите [2], а у нас на складе [0]
+[GIN] ::1 - [Thu, 28 Oct 2021 01:38:40 +05] "POST /api/user/cart HTTP/1.1 500 4.351ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:38:57 +05] "POST /api/user/cart HTTP/1.1 200 5.4815ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:38:59 +05] "POST /api/user/cart HTTP/1.1 200 7.1856ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:38:59 +05] "POST /api/user/cart HTTP/1.1 200 9.5373ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:39:00 +05] "POST /api/user/cart HTTP/1.1 200 3.8211ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:39:03 +05] "GET /goods HTTP/1.1 200 1.3159ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:39:17 +05] "POST /api/user/cart HTTP/1.1 200 4.5452ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 01:40:28 +05] "GET /goods HTTP/1.1 200 2.2744ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:40:42 +05] "POST /api/user/cart HTTP/1.1 200 6.8127ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:40:43 +05] "POST /api/user/cart HTTP/1.1 200 5.3315ms "insomnia/2021.5.3" 
+2021/10/28 01:40:44 У нас нет столько продуктов. Вы просите [6], а у нас на складе [1]
+[GIN] ::1 - [Thu, 28 Oct 2021 01:40:44 +05] "POST /api/user/cart HTTP/1.1 500 3.7615ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 01:41:39 +05] "POST /api/user/cart HTTP/1.1 200 4.7951ms "insomnia/2021.5.3" 
+2021/10/28 01:41:40 У нас нет столько продуктов. Вы просите [1], а у нас на складе [0]
+[GIN] ::1 - [Thu, 28 Oct 2021 01:41:40 +05] "POST /api/user/cart HTTP/1.1 500 2.7991ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 01:48:59 +05] "DELETE /api/user/cart/14 HTTP/1.1 200 3.6496ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:14 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 2.3901ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:15 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.6494ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:16 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.701ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:16 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.4996ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:17 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.5688ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:17 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.5352ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:17 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 2.4151ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:17 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.9125ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:17 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.4454ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:17 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.4306ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:18 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 2.1854ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:18 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.8041ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:18 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 2.1018ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:18 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.1091ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:18 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.7412ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:18 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.5254ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:19 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.6088ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:19 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 2.0658ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:19 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.8482ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:19 +05] "DELETE /api/user/cart/1 HTTP/1.1 200 1.7804ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:49:34 +05] "DELETE /api/user/cart/8 HTTP/1.1 200 1.8747ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 01:56:46 +05] "GET /api/user/cart HTTP/1.1 200 4.4166ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 01:57:10 +05] "GET /api/user/cart HTTP/1.1 200 2.5016ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 01:57:45 +05] "GET /api/user/cart HTTP/1.1 200 11.015ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 01:58:05 +05] "GET /api/user/cart HTTP/1.1 200 4.7897ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 02:12:50 +05] "GET /api/manager/carts HTTP/1.1 200 27.9253ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 02:14:01 +05] "GET /api/manager/carts HTTP/1.1 200 7.0518ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 02:15:09 +05] "GET /api/manager/carts HTTP/1.1 200 6.7778ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 02:16:49 +05] "GET /api/manager/carts HTTP/1.1 200 7.7352ms "insomnia/2021.5.3" 
+[GIN-debug] GET    /ping                     --> EStore/routes.PingPong (6 handlers)
+[GIN-debug] GET    /goods                    --> EStore/pkg/controller.GetAllGoods (6 handlers)
+[GIN-debug] POST   /sign-up                  --> EStore/pkg/controller.SignUp (6 handlers)
+[GIN-debug] POST   /sign-in                  --> EStore/pkg/controller.SignIn (6 handlers)
+[GIN-debug] GET    /api/user/cart            --> EStore/pkg/controller.GetUserCart (7 handlers)
+[GIN-debug] POST   /api/user/cart            --> EStore/pkg/controller.AddToCart (7 handlers)
+[GIN-debug] DELETE /api/user/cart/:good_id   --> EStore/pkg/controller.DeleteGoodFromCart (7 handlers)
+[GIN-debug] GET    /api/manager/carts        --> EStore/pkg/controller.GetAllCarts (7 handlers)
+[GIN-debug] POST   /api/manager/good         --> EStore/pkg/controller.CreateGood (7 handlers)
+[GIN-debug] PUT    /api/manager/good/:type_of_operation --> EStore/pkg/controller.IncrementGoodCount (7 handlers)
+[GIN-debug] DELETE /api/manager/good/:id     --> EStore/pkg/controller.DeleteGood (7 handlers)
+[GIN-debug] Listening and serving HTTP on :8888
+[GIN] ::1 - [Thu, 28 Oct 2021 02:17:41 +05] "GET /api/manager/carts HTTP/1.1 200 6.4743ms "insomnia/2021.5.3" 
+2021/10/28 02:18:18 У нас нет столько продуктов. Вы просите [1], а у нас на складе [0]
+[GIN] ::1 - [Thu, 28 Oct 2021 02:18:18 +05] "POST /api/user/cart HTTP/1.1 500 2.3188ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 02:18:38 +05] "POST /sign-in HTTP/1.1 200 1.5392ms "insomnia/2021.5.3" 
+[GIN] ::1 - [Thu, 28 Oct 2021 02:18:52 +05] "GET /api/manager/carts HTTP/1.1 200 3.2375ms "insomnia/2021.5.3" 
+2021/10/28 02:19:00 your user-type is not "user"
+[GIN] ::1 - [Thu, 28 Oct 2021 02:19:00 +05] "GET /api/user/cart HTTP/1.1 403 393.8µs "insomnia/2021.5.3" 
