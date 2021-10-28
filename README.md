@@ -1,18 +1,18 @@
-###E-store - online shop
+### E-store - online shop
 
 ---
 It's a simple project that was created in order to show my coding skills. It's about a simple online shop with 2 roles: 
 * user
 * manager
 
-####user
+#### user
 ___
 User can do a few action
 * add good to his cart
 * delete good from his cart
 * see his cart
 
-####manager
+#### manager
 ____
 manager has much more functionality than ***user***
 * adding new good
@@ -20,7 +20,7 @@ manager has much more functionality than ***user***
 * decrementing the count of goods
 * seeing all users' carts
 
-##Technological Stack
+## Technological Stack
 * Golang
     * GIN
     * lumberjack
