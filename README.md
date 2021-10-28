@@ -1,7 +1,7 @@
 ###E-store - online shop
 
 ---
-It's a simple project that was created in order to show my coding skills. It's about a simple online with 2 roles: 
+It's a simple project that was created in order to show my coding skills. It's about a simple online shop with 2 roles: 
 * user
 * manager
 
